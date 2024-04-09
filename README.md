@@ -1,5 +1,7 @@
 <p align="center"><img src="./assets/linux.jpeg" alt=""></p>
+
 ## General
+
 ### Le projet
 
      Ce projet a pour but de vous faire découvrir le merveilleux monde de la virtualisation en installant et en configurant un serveur base, soit sur debian, soit sur Rocky linux selon le niveau de l’etudiant.
